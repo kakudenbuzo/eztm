@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "EZTM",
     "description": "Chrome extension that helps you to do LGTM with fancy gifs.",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "icons": {
       "16": "image/icon16.png",
       "48": "image/icon48.png",
