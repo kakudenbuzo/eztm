@@ -1,4 +1,4 @@
-name: crx artifacts to release
+name: Deploy to Chrome web store
 
 on:
   push:
